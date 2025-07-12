@@ -10,11 +10,13 @@
 <!-- Give a brief overview of why you chose the stats you did and then describe them in the tables. -->
 ...
 
-||Constants||Type||Value||
+|Constants|Type|Value|
+|---------|----|-----|
 | | | | 
 | | | |
 
-||Variables||Type||Initial Value||
+|Variables|Type|Initial Value|
+|---------|----|-------------|
 | | | |
 | | | |
 | | | |
@@ -27,7 +29,8 @@
 ### Calculations
 <!-- Describe the calculations your program will perform and how they support your plot AND meet the assignment requirements -->
 
-||Calc #||Description||Uses modulus operator?||Changes stats?||
+|Calc #|Description|Uses modulus operator?|Changes stats?|
+|------|-----------|----------------------|--------------|
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
